@@ -1,42 +1,42 @@
-# linux
+# Linux
 
-
+### General
 ```
 cat /etc/issue # ubuntu version
 
-cat: concatenate
+cat # concatenate
 
-pwd: current path
+pwd # current path
 
-cd: change directory
+cd # change directory
 
-mkdir: new directory
+mkdir # new directory
 
-sudo reboot: restart system
+sudo reboot # restart system
 
-sudo passwd root: change password
+sudo passwd root # change password
 
-dpkg --list: show packages
+dpkg --list # show packages
 
-sudo apt-get --purge remove program: remove program
+sudo apt-get --purge remove program # remove program
 
-sudo apt install ./name.deb: install .deb
+sudo apt install ./name.deb # install .deb
 
-rm: delete directory
+rm # delete directory
 
-rmdir: rm empty
+rmdir # rm empty
 
-ls: list content
+ls # list content
 
-clear: clear terminal
+clear # clear terminal
 
-mv: move files
+mv # move files
 
-date: date
+date # date
 
-chmod a+x exampleName.AppImage: make the appImage executable
+chmod a+x exampleName.AppImage # make the appImage executable
 
-./exampleName.AppImage: execute an appImage
+./exampleName.AppImage # execute an appImage
 ```
 
 sudo apt install python2
