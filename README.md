@@ -1,7 +1,7 @@
 # linux
 
 
-'''
+```
 cat /etc/issue: ubuntu version
 
 cat: concatenate
@@ -37,7 +37,7 @@ date: date
 chmod a+x exampleName.AppImage: make the appImage executable
 
 ./exampleName.AppImage: execute an appImage
-'''
+```
 
 sudo apt install python2
 
