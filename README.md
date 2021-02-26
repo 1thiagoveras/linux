@@ -39,6 +39,16 @@ chmod a+x exampleName.AppImage # make the appImage executable
 ./exampleName.AppImage # execute an appImage
 ```
 
+### Update
+```
+sudo apt-get update
+sudo apt update
+sudo apt-get upgrade
+sudo apt upgrade
+```
+
+### Python
+```
 sudo apt install python2
 
 python2 --version
@@ -56,9 +66,10 @@ sudo update-alternatives --install /usr/bin/python python /usr/bin/python3 2
 sudo update-alternatives --config python
 
 python --version
+```
 
-sudo apt update
-
+### Node.js
+```
 sudo apt install nodejs
 
 nodejs -v
@@ -66,4 +77,4 @@ nodejs -v
 sudo apt install npm
 
 npm -v
-__________________________________________________________________________________
+```
