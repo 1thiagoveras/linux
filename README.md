@@ -2,7 +2,7 @@
 
 
 ```
-cat /etc/issue: ubuntu version
+cat /etc/issue # ubuntu version
 
 cat: concatenate
 
